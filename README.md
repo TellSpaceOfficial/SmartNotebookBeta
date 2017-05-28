@@ -5,6 +5,7 @@ Smart NotebookBeta (Real name comming soon...) is a !Android! notebook/app combo
 # Instructions
 
 1. Download the apk to your computer and transfare it to your phone
+You can download the apk form github or from a direct download (Google Drive) By clicking <a href="https://drive.google.com/uc?export=download&id=0B6FSSEN7obfyOFlKMlhwSG5ZOG8"> HERE </a> 
 2. Install the apk
 3. Run the app.
 
