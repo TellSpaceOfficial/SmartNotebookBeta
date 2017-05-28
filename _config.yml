@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
-title: Smart Notebook (Beta) 	&#124; Tell Space
+title: TSmart Notebook Beta &#124; Tell Space
+description: Smart Notebook Beta an Android app using paper and QR codes to organixźe your notes.
+gems:
+      - jekyll-sitemap
