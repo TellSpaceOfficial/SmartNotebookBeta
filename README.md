@@ -24,7 +24,7 @@ You can download the apk form github or from a direct download (Google Drive) By
 2. Choose the note you want to edit
 3. When done click "Save"
 
-# Help develpment
+# Help development
 
 By subbmiting issues and comments on the github page or conatcting us via e-mail:
 com.tellspace@gmail.com Thanks!
