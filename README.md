@@ -34,5 +34,5 @@ contact@tellspacehq.ml Thanks!
 
 # Help!
 
-If you have problems contact us at info2tellspacehq.ml contact ;D
+If you have problems contact us at info@tellspace.ml
 
